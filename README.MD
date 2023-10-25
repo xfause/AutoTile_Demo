@@ -2,7 +2,7 @@
 
 ### Description
 
-Include demos in 2D (based on JS and Web) and 3D (based on Godot4).
+Include demos in 2D (based on JS and Web) and 3D (based on Godot4), and also have tutorial documentations.
 
 ### Tutorial
 
