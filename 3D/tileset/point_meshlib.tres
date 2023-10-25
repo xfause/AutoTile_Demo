@@ -1,0 +1,11 @@
+[gd_resource type="MeshLibrary" load_steps=2 format=3 uid="uid://ceilqu1o2o87t"]
+
+[sub_resource type="PointMesh" id="PointMesh_1p2on"]
+
+[resource]
+item/0/name = "MeshInstance3D"
+item/0/mesh = SubResource("PointMesh_1p2on")
+item/0/mesh_transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0)
+item/0/shapes = []
+item/0/navigation_mesh_transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0)
+item/0/navigation_layers = 1
